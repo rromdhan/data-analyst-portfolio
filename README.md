@@ -23,7 +23,9 @@
 
 **Liens :**
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue?logo=kaggle)](https://www.kaggle.com/code/rabiaaromdhan/brazilian-e-commerce)
-
+![CA mensuel](ca_mensuel.png)
+![Heatmap](heatmap_commandes.png)
+![Top catégories](top_categories.png)
 ---
 
 ### 2. Analyse A/B Test — Campagne Marketing *(à venir)*
